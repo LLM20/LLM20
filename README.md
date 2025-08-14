@@ -41,14 +41,10 @@ Trabalho com desenvolvimento **Front-end** e **Back-end**, focando em **design r
 ## 🚀 Projetos em destaque
 - 🔧 [**ACRE JET SERVICE**](https://github.com/LLM20/acre-jet-service) — Site institucional animado com integração ao WhatsApp.
 - 🏛 [**BM Arquitetura**](https://github.com/LLM20/bm-arquitetura) — Site moderno para arquitetura com Tailwind CSS.
+- 🖨 [**Acre impressoras**](https://github.com/LLM20/Acre-impressoras-.git) - Site de Manutenção de impressoras.
 
 ---
 
-## 🌐 Onde me encontrar
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-lima"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
