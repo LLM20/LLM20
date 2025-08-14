@@ -40,7 +40,6 @@ Trabalho com desenvolvimento **Front-end** e **Back-end**, focando em **design r
 
 ## 🚀 Projetos em destaque
 - 🔧 [**ACRE JET SERVICE**](https://github.com/LLM20/acre-jet-service) — Site institucional animado com integração ao WhatsApp.
-- 🛒 [**Pé de Ouro**](https://github.com/LLM20/pe-de-ouro) — Loja virtual com design exclusivo e responsivo.
 - 🏛 [**BM Arquitetura**](https://github.com/LLM20/bm-arquitetura) — Site moderno para arquitetura com Tailwind CSS.
 
 ---
