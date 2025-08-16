@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFEE,100:FF00EE&height=180&section=header&text=Lucas%20Lima&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 </p>
 
+<!-- Avatar Futurista Animado -->
+<p align="center">
+  <img src="URL_DO_SEU_GIF.gif" alt="Avatar Futurista" width="200" />
+</p>
+
 <!-- GIF de Programador -->
 <p align="center">
   <img src="https://i.gifer.com/5RVW.gif" alt="Programador em ação" width="300" />
