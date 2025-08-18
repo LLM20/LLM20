@@ -30,7 +30,7 @@
 
 ## 🛠 Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,visualstudio,github" />
 </p>
 
 ---
